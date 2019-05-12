@@ -893,6 +893,10 @@ a.move-top span{
 	.w3layouts-map iframe {
 		min-height: 350px;
 	}
+	#logoLink img {
+    		width: 60px;
+    		height: 60px;
+    	}
 }
 @media(max-width:667px) {
     .bnr-txt-w3pvt {
